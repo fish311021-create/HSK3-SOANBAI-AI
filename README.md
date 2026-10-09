@@ -1,16 +1,12 @@
-# 🚀 HSK 3 PRE-STUDY STUDIO & AI VISION ASSISTANT
-> Ứng dụng Web Soạn Bài Trước & Trợ Lý Học Tập AI Phản Xạ Cấp Tốc (Gemini Vision)
+# 🚀 HSK 3 PRE-STUDY & AI VISION STUDIO (PHIÊN BẢN 2.1)
+> Toàn bộ 20 Bài Soạn Trước Chuẩn SGK Tích Hợp Trợ Lý AI Vision (Gemini Flash Multimodal)
 
 ## 🌐 Trải nghiệm Trực tiếp (Live Website)
 👉 **[https://fish311021-create.github.io/HSK3-SOANBAI-AI/](https://fish311021-create.github.io/HSK3-SOANBAI-AI/)**
 
-## ✨ Tính năng Nổi bật:
-1. **Từ Vựng & Ô Mễ Vẽ Nét**: 17 Từ vựng chuẩn SGK, phát âm, chiết tự, bút thuận và bảng vẽ ngón tay/chuột.
-2. **Flashcard 3D & Minigame Nối Từ**: Luyện phản xạ mặt chữ Hán và Pinyin.
-3. **4 Bài Khóa & AI Shadowing**: Nghe audio chuẩn SGK và ghi âm luyện giọng AI.
-4. **🤖 TRỢ LÝ GIẢI BÀI TẬP GEMINI FLASH VISION**:
-   - Chụp ảnh đề bài / câu hỏi của cô giáo trên lớp.
-   - Nhận diện Hán tự và phân tích ngữ cảnh bài khóa trong ~1.5 giây.
-   - Hướng dẫn câu phát biểu nhanh, câu phát biểu hoàn chỉnh, kèm căn cứ bài khóa.
-   - **100% chữ Hán đều có Pinyin kèm theo thanh điệu chuẩn xác.**
-5. **Xưởng Ngữ Pháp Vàng & Mini Quiz**: Bóc tách cấu trúc ngữ pháp và bẫy thi HSK 3.
+## ✨ Điểm Nổi Bật Hệ Thống:
+- **Đầy đủ 20 bài học chuẩn SGK**: Từ Bài 01 đến Bài 20 với 4 Tab trọng tâm (Từ Vựng, Minigames Flashcard & Nối từ, Mổ xẻ 4 Bài khóa, Xưởng Ngữ Pháp).
+- **80 Khối Trợ Lý AI Vision**: Mỗi bài khóa có riêng một trợ lý AI phân tích ảnh đề bài, đối chiếu bài khóa gốc và phản xạ trong ~1.5 giây.
+- **100% Pinyin có dấu thanh điệu**: Đề bài, kết luận Đúng/Sai, câu phát biểu nhanh, câu phát biểu hoàn chỉnh và căn cứ bài khóa đều hiển thị Pinyin đầy đủ.
+- **Zero Demo Buttons**: Tối ưu hóa trải nghiệm trực tiếp, không dùng câu hỏi mẫu giả lập.
+- **Âm thanh chuẩn SGK**: Tích hợp toàn bộ file MP3 từ đĩa nghe giáo trình HSK 3 chính thức.
